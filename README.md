@@ -1,7 +1,7 @@
 # Analise de dados Com Python
 
 projeto de data science na linguagem python feito em grupo na faculdade.
-Com objetivo de criar gráficos restritos,fazer análises com das ações da Loja Renner S.A. 
+Com objetivo de criar gráficos restritos,fazer análises das ações da Loja Renner S.A. 
 e da Magazine Luiza S.A , analisando os gráficos gerados a partir dos dados dos arquivos
 LREN3.SA.csv e MGLU3.SA.csv.
 
