@@ -23,15 +23,17 @@ com professor Geraldo.
 
   <div><br>
  
-   ![grafico 1](https://github.com/MatRogax/Analise_de_dados/assets/105300337/67ce23d2-2540-4c08-adfc-bf92f8302bc9)
+   ![grafico 1](https://github.com/MatRogax/Analise_de_dados/assets/105300337/95fc83ab-cb3b-401a-8fc3-36cd97dbba71)
 
  </div>
 
   # Gráfico 2
 
   <div><br>
-    
-   ![grafico 2 ](https://github.com/MatRogax/Analise_de_dados/assets/105300337/74a2ea65-d593-488a-ae38-74e55b898b6c)
+   
+   ![grafico 2 ](https://github.com/MatRogax/Analise_de_dados/assets/105300337/d5104230-0bbc-46da-8f35-c06afac21f6a)
+
+
 
 
  </div>
