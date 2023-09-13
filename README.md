@@ -6,7 +6,8 @@ e da Magazine Luiza S.A , analisando os gráficos gerados a partir dos dados dos
 LREN3.SA.csv e MGLU3.SA.csv.
 
 Feito pelo grupo: Matheus Rogato, Vinicius Cerqueira e Pedro Henrique Fonseca
-alunos do Centro Universitário Cesmac.
+alunos do Centro Universitário Cesmac , curso sistemas de informação  na matéria de matemática computacional
+com professor Geraldo.
 
 # Bibliotecas
 
